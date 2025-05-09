@@ -26,7 +26,7 @@ C:\Users\rayssa.souza\Documents>npm -v
 Baixe e instale o Node.js pelo site oficial: 
 https://nodejs.org
 ________________________________________
- # Passo a passo instalção
+ # Passo a passo instalação
 
 **Passo 1: Crie uma pasta para seu projeto (caso ainda não** tenha)
 >mkdir meu-projeto-cypress
